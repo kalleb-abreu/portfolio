@@ -1,7 +1,8 @@
 title: Kalleb Abreu
 # logo: /assets/img/headshot_circle.png
 #description: text below image
-show_downloads: false
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
   skin: dark
