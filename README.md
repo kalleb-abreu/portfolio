@@ -1,8 +1,8 @@
 # Data Scientist | AI Engineer
 
-#### Technical Skills: Python, SQL, Azure, Databricks, PySpark
+## Technical Skills: Python, SQL, Azure, Databricks, PySpark
 
-### Work Experience
+## Work Experience
 
 **Data Scientist @ BITKA Analytics (_October 2023 - Present_)**  
 
