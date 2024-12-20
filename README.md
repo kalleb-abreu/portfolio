@@ -1,26 +1,26 @@
 # Data Scientist | AI Engineer
 
 ## Technical Skills
-**Proficient**: Python, SQL, Linear Regression and Machine Learning.
-
-**Intermediate**: Power BI, Azure, Databricks and PySpark.
-
-**Beginner**: AWS, R and ETL.
+- **Proficient**: Python, SQL, Linear Regression and Machine Learning.
+- **Intermediate**: Power BI, Azure, Databricks and PySpark.
+- **Beginner**: AWS, R and ETL.
 
 ## Work Experience
 
-**Data Scientist @ BITKA Analytics (_October 2023 - Present_)**  
+- **Data Scientist @ BITKA Analytics (_October 2023 - Present_)**
+- **Data Scientist @ Coopservice (_April 2023 - September 2023_)**
+- **Data Analyst @ BITKA 4Matt Tecnologia (_August 2019 - March 2022_)**
+- **Scholarship Holder @ CNPq (_August 2017 - July 2018_)**
+- **Scholarship Holder @ CAPES (_March 2015 - February 2016_)**
 
-Core Responsibilities: 
-- Designed and implemented machine learning pipelines using Kedro and the CRISP-ML methodology, ensuring efficient model development for mining and telecommunications projects.
-- Leveraged supervised methods (Linear Regression, XGBoost) and unsupervised techniques to optimize operations in copper, iron, and telecom sectors, addressing business challenges with data-driven insights.
-- Built scalable ETL workflows using Azure Databricks and PySpark to process large datasets, improving analysis efficiency.
-- Enhanced user experience with interactive data exploration and visualization tools developed in Streamlit, complemented by dashboards in Power BI and reports in Excel.
-- Applied SHAP for explainable AI, improving model transparency and fostering trust with stakeholders.
+For a complete overview of my work experience, please visit my [LinkedIn](https://www.linkedin.com/in/kalleb-abreu/) profile. 
 
-**Key Technologies and Tools**: Python, Scikit-learn, CRISP-ML, Machine Learning, Linear Regression, XGBoost, Azure Databricks, PySpark, Object-Oriented Programming (OOP), Streamlit, Power BI, Excel, Data Visualization. 
+## Education
 
-### Education
+- **Postgraduate Degree in Computational Applied Statistics | Universidade Federal de Minas Gerais (_March 2024 - June 2025_)**
+- **Master of Computer Science | Universidade Federal de Viçosa (_March 2021 - December 2023_)**
+- **Bachelor of Mechanical Engineering | Universidade Federal de Viçosa (_March 2014 - December 2018_)**
 
+## Projects
 
-### Projects
+This page is under development. More content will be added soon.
