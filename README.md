@@ -17,9 +17,9 @@ For a complete overview of my work experience, please visit my [LinkedIn](https:
 
 ## Education
 
-- **Postgraduate Degree in Computational Applied Statistics | Universidade Federal de Minas Gerais (_March 2024 - June 2025_)**
-- **Master of Computer Science | Universidade Federal de Viçosa (_March 2021 - December 2023_)**
-- **Bachelor of Mechanical Engineering | Universidade Federal de Viçosa (_March 2014 - December 2018_)**
+- **Postgraduate Degree in Computational Applied Statistics - UFMG (_March 2024 - June 2025_)**
+- **Master of Computer Science - UFV (_March 2021 - December 2023_)**
+- **Bachelor of Mechanical Engineering - UFV (_March 2014 - December 2018_)**
 
 ## Projects
 
