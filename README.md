@@ -1,6 +1,11 @@
 # Data Scientist | AI Engineer
 
-## Technical Skills: Python, SQL, Azure, Databricks, PySpark
+## Technical Skills
+**Proficient**: Python, SQL, Linear Regression and Machine Learning.
+
+**Intermediate**: Power BI, Azure, Databricks and PySpark.
+
+**Beginner**: AWS, R and ETL.
 
 ## Work Experience
 
