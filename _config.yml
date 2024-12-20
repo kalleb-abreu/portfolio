@@ -1,5 +1,4 @@
 title: Kalleb Abreu
-description: Data Scientist Portfolio 
-logo: profile.png
-#description: text below image
+logo: /profile.png
+description: Data Scientist Portfolio
 theme: jekyll-theme-minimal
