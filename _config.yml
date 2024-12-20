@@ -1,15 +1,6 @@
 title: Kalleb Abreu
-logo: profile_circle.png
+logo: profile_circle_small.png
 description: Data Scientist | AI Engineer
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
-sidebar_links:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
-  - title: "Blog"
-    url: "/blog/"
