@@ -7,19 +7,19 @@
 
 ## Work Experience
 
-- **Data Scientist @ BITKA Analytics (_October 2023 - Present_)**
-- **Data Scientist @ Coopservice (_April 2023 - September 2023_)**
-- **Data Analyst @ BITKA 4Matt Tecnologia (_August 2019 - March 2022_)**
-- **Scholarship Holder @ CNPq (_August 2017 - July 2018_)**
-- **Scholarship Holder @ CAPES (_March 2015 - February 2016_)**
+- **Data Scientist @ BITKA Analytics (_Oct 2023 - Present_)**
+- **Data Scientist @ Coopservice (_Apr 2023 - Sep 2023_)**
+- **Data Analyst @ 4Matt Tecnologia (_Aug 2019 - Mar 2022_)**
+- **Scholarship Holder @ CNPq (_Aug 2017 - Jul 2018_)**
+- **Scholarship Holder @ CAPES (_Mar 2015 - Feb 2016_)**
 
 For a complete overview of my work experience, please visit my [LinkedIn](https://www.linkedin.com/in/kalleb-abreu/) profile. 
 
 ## Education
 
-- **Postgraduate Degree in Computational Applied Statistics - UFMG (_March 2024 - June 2025_)**
-- **Master of Computer Science - UFV (_March 2021 - December 2023_)**
-- **Bachelor of Mechanical Engineering - UFV (_March 2014 - December 2018_)**
+- **Spec., Computational Applied Statistics - UFMG (_Mar 2024 - Jun 2025_)**
+- **Ms., Computer Science - UFV (_Mar 2021 - Dec 2023_)**
+- **Bs., Mechanical Engineering - UFV (_Mar 2014 - Dec 2018_)**
 
 ## Projects
 
