@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-** Data Scientist @ BITKA Analytics (_October 2023 - Present_)**  
+**Data Scientist @ BITKA Analytics (_October 2023 - Present_)**  
 
 Core Responsibilities: 
 - Designed and implemented machine learning pipelines using Kedro and the CRISP-ML methodology, ensuring efficient model development for mining and telecommunications projects.
